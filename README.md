@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Metaphysicist1/Metaphysicist1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm [Your Name], a passionate software engineer with a solid background in [your areas of expertise]. I love building innovative solutions and pushing the boundaries of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm currently working on
+
+
+- [Project 1](https://github.com/Metaphysicist1/Bachelor_Thesis): An advanced generative AI model that generates [describe the output].
+
+
+### 🌱 What I'm currently learning
+
+I believe in continuous learning and keeping up with the latest technologies. Some of the technologies I'm currently diving into include:
+
+- Machine Learning and Deep Learning frameworks such as PyTorch
+- Cloud Computing platforms like AWS 
+- DevOps tools for efficient and automated software delivery
+
+### 👯 Looking to collaborate?
+
+I'm always interested in collaborating on exciting projects and contributing to open-source initiatives. If you have an interesting idea or need assistance with a project, feel free to reach out to me!
+
+### 💬 Get in touch
+
+You can connect with me on:
+
+- [LinkedIn](https://www.linkedin.com/in/edgar-abasov-aa86a71aa/)
+- [Twitter](https://twitter.com/AbasovEdgar)
+- [Personal Website](-)
+
+Let's build something amazing together! 😄
