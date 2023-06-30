@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile!
 
-I'm [Your Name], a passionate software engineer with a solid background in [your areas of expertise]. I love building innovative solutions and pushing the boundaries of technology.
+I'm Edgar Abasov, a passionate software engineer with a intermediate background in Data Science . I love building innovative solutions and pushing the boundaries of technology.
 
 ### 🔭 What I'm currently working on
 
