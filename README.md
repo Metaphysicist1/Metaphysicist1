@@ -2,12 +2,12 @@
 
 ## Welcome to my GitHub profile!
 
-I'm Edgar Abasov, a passionate software engineer with a intermediate background in Data Science . I love building innovative solutions and pushing the boundaries of technology.
+I'm Edgar Abasov, a passionate software engineer with an intermediate background in Data Science. I love building innovative solutions and pushing the boundaries of technology.
 
 ### 🔭 What I'm currently working on
 
 
-- [Project 1](https://github.com/Metaphysicist1/Bachelor_Thesis): An advanced generative AI model that generates [describe the output].
+- [Project 1](https://github.com/Metaphysicist1/Bachelor_Thesis): An advanced generative AI model that generates English letters and aims to create font.
 
 
 ### 🌱 What I'm currently learning
@@ -20,7 +20,7 @@ I believe in continuous learning and keeping up with the latest technologies. So
 
 ### 👯 Looking to collaborate?
 
-I'm always interested in collaborating on exciting projects and contributing to open-source initiatives. If you have an interesting idea or need assistance with a project, feel free to reach out to me!
+I'm always interested in collaborating on exciting projects and contributing to open-source initiatives. If you have an interesting idea or need assistance with a project, feel free to contact me!
 
 ### 💬 Get in touch
 
