@@ -3,11 +3,12 @@
 ## Welcome to my GitHub profile!
 
 I'm Edgar Abasov, a passionate software engineer with an intermediate background in Data Science. I love building innovative solutions and pushing the boundaries of technology.
-
+### 📂 Project which I have done
+-[Wizards.AI](https://github.com/Metaphysicist1/Wizards.AI): Speech recognition app using different pre-trained models
 ### 🔭 What I'm currently working on
 
 
-- [Project 1](https://github.com/Metaphysicist1/Bachelor_Thesis): An advanced generative AI model that generates English letters and aims to create font.
+- [Font-Letter Generator GAN](https://github.com/Metaphysicist1/Bachelor_Thesis): An advanced generative AI model that generates English letters and aims to create font.
 
 
 ### 🌱 What I'm currently learning
