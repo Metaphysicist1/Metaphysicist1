@@ -4,7 +4,8 @@
 
 I'm Edgar Abasov, a passionate software engineer with an intermediate background in Data Science. I love building innovative solutions and pushing the boundaries of technology.
 ### 📂 Project which I have done
--[Wizards.AI](https://github.com/Metaphysicist1/Wizards.AI): Speech recognition app using different pre-trained models
+- [Wizards.AI](https://github.com/Metaphysicist1/Wizards.AI): Speech recognition app using different pre-trained models
+- [Data Analysis](https://github.com/Metaphysicist1/COMM-school-Data_Analytics): Reports about Air Pollution in Seoul and shooting cases in the USA
 ### 🔭 What I'm currently working on
 
 
