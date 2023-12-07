@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello World of Code! 🚀
 
 ## Welcome to my GitHub profile!
 
@@ -9,14 +9,15 @@ I'm Edgar Abasov, a passionate software engineer with an intermediate background
 - [Font-Letter Generator GAN](https://github.com/Metaphysicist1/Bachelor_Thesis): An advanced generative AI model that generates English letters and aims to create font.
 ### 🔭 What I'm currently working on
 - [Jigar.AI Gym Assistant App](https://github.com/Metaphysicist1/Jigar.AI):  GPT4 based gym assistant Anano + Computer Vision Movement detector and teacher.
+- [NY Legally Operating Businesses Licenses Data Analyze](https://github.com/Metaphysicist1/Analyze_Flow): Loading, Transforming, Managing, and Exploring.
 
 ### 🌱 What I'm currently learning
 
 I believe in continuous learning and keeping up with the latest technologies. Some of the technologies I'm currently diving into include:
+- Datacamp Data Scientist Professional with Python path including statistics, SQL, Python  and etc
+- Machine Learning and Deep Learning frameworks such as PyTorch 
+- PySpark + Postgres + scikit-learn tech stack  
 
-- Machine Learning and Deep Learning frameworks such as PyTorch
-- Cloud Computing platforms like AWS 
-- DevOps tools for efficient and automated software delivery
 
 ### 👯 Looking to collaborate?
 
@@ -28,6 +29,6 @@ You can connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/edgar-abasov-aa86a71aa/)
 - [Twitter](https://twitter.com/AbasovEdgar)
-- [Personal Website](-)
+
 
 Let's build something amazing together! 😄
