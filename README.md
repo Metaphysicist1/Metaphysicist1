@@ -2,6 +2,7 @@
 
 I'm Edgar Abasov, a passionate software engineer with an intermediate background in Data Science. I love building innovative solutions and pushing the boundaries of technology.
 ### 📂 Project which I have done
+- 🔗 [NER EN](https://github.com/Metaphysicist1/Mastering/tree/dev/ner_conll2003): Fine-tuning Named Entity Recognition
 - 🔗 [Wizards.AI](https://github.com/Metaphysicist1/Wizards.AI): Speech recognition app using different pre-trained models
 - 🔗 [Data Analysis](https://github.com/Metaphysicist1/COMM-school-Data_Analytics): Reports about Air Pollution in Seoul and shooting cases in the USA
 - 🔗 [Font-Letter Generator GAN](https://github.com/Metaphysicist1/Bachelor_Thesis): An advanced generative AI model that generates English letters and aims to create font.
