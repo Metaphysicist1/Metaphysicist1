@@ -10,6 +10,7 @@ I'm Edgar Abasov, a passionate software engineer with an intermediate background
 
 ### 🔭 What I'm currently working on
 - Coverbot [LLM+RAG based chat interface for easy insight Retriviation](https://github.com/Metaphysicist1/CoverBot)
+- Spectrality [Live Data Smart Pipeline](https://github.com/Metaphysicist1/Live-Data-Retriever-Visualizer)
 ### 🌱 What I'm currently learning
 
 I believe in continuous learning and keeping up with the latest technologies. Some of the technologies I'm currently diving into include:
