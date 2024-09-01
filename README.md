@@ -13,8 +13,8 @@ I'm Edgar Abasov, a passionate software engineer with an intermediate background
 ### 🌱 What I'm currently learning
 
 I believe in continuous learning and keeping up with the latest technologies. Some of the technologies I'm currently diving into include:
-- Datacamp Data Scientist Professional with Python path including statistics, SQL, Python  and etc
-- Machine Learning and Deep Learning frameworks such as PyTorch 
+- LLM, Rag, Stable Diffusion, AWS, GCP
+- Deep Learning frameworks such as PyTorch, Keras, Tensorflow 
 - PySpark + Postgres + scikit-learn tech stack  
 
 
