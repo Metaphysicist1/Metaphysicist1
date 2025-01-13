@@ -1,10 +1,10 @@
-Hi ![](https://i.gifer.com/APU5.gif)My name is Edgar Abasov
+Hi ![](https://i.gifer.com/APU5.gif)my name is Edgar Abasov
 ====================================================================================================================================
 
 Data Scientist specializing in Machine Learning & NLP
 -----------------------------------------------------
 
-Data Scientist with expertise in Excel, SQL, and PowerBI. Enhanced Bank of Georgia’s chatbot. Skilled in Python, Spark, and data visualization, proficient in storytelling. I am seeking a job opportunity as a data science.
+Data Scientist with expertise in scikit-learn, Python, SQL, PowerBI, Docker and GIT. Enhanced Bank of Georgia’s chatbot. Skilled Spark, and data visualization, proficient in storytelling. I am seeking a job opportunity as a data science.
 
 * 🌍  I'm based in Kiel, Germany
 * 🖥️  See my portfolio at [Portfolio](http://www.datascienceportfol.io/metaphysicist)
