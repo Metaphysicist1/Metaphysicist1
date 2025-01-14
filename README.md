@@ -1,4 +1,4 @@
-Hi ![](https://i.gifer.com/APU5.gif)my name is Edgar Abasov
+![](https://i.gifer.com/APU5.gif) Hi, I am Edgar Abasov
 ====================================================================================================================================
 
 Data Scientist specializing in Machine Learning & NLP
