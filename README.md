@@ -89,15 +89,13 @@ src="https://img.shields.io/github/followers/Metaphysicist1?logo=github&style=fo
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Metaphysicist1"><img src="https://github-readme-stats.vercel.app/api?username=Metaphysicist1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Metaphysicist1's GitHub stats" /></a>
-
 <a href="http://www.github.com/Metaphysicist1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Metaphysicist1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="http://www.github.com/Metaphysicist1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Metaphysicist1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Metaphysicist1/Customer_Churn_Classification" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Metaphysicist1&repo=Customer_Churn_Classification&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Metaphysicist1/CoverBot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Metaphysicist1&repo=CoverBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Metaphysicist1/Customer_Churn_Classification" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Metaphysicist1&repo=Customer_Churn_Classification&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Metaphysicist1/CoverBot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Metaphysicist1&repo=CoverBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Metaphysicist1/ml-zoomcamp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Metaphysicist1&repo=ml-zoomcamp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Metaphysicist1/Fine-tuning-NER-for-En" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Metaphysicist1&repo=Fine-tuning-NER-for-En&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
