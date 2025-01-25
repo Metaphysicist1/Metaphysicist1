@@ -11,7 +11,7 @@ implementations. Focused on driving business tasks through data-driven solutions
 * 🖥️  See my portfolio at [Portfolio](http://www.datascienceportfol.io/metaphysicist)
 * ✉️  You can contact me at [edgarabasov1@gmail.com](mailto:edgarabasov1@gmail.com)
 * 🚀  I'm currently working on [Movie Recommendation System](https://github.com/Metaphysicist1/Movie-Recommendation-System) and [Live Data Retriever Visualizer](https://github.com/Metaphysicist1/Live-Data-Retriever-Visualizer) 
-* 🧠  I'm learning CI/CD, Data Engineering, Big Data Tools, And preparing for Exam: [AWS-MLS-C01](https://github.com/Metaphysicist1/AWS-MLS-C01)
+* 🧠  I'm learning and masteting CI/CD, Data Engineering, Big Data Tools, And preparing for Exam: [AWS-MLS-C01](https://github.com/Metaphysicist1/AWS-MLS-C01)
 * 🤝  I'm open to collaborating I'm always interested in collaborating on exciting projects and contributing to open-source initiatives. If you have an interesting idea or need assistance with a project, feel free to contact me!
 
 <a href="https://www.github.com/Metaphysicist1" target="_blank" rel="noreferrer"><img
