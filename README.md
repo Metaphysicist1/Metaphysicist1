@@ -10,9 +10,10 @@ implementations. Focused on driving business tasks through data-driven solutions
 * 🌍  I'm based in Kiel, Germany
 * 🖥️  See my portfolio at [Portfolio](http://www.datascienceportfol.io/metaphysicist)
 * ✉️  You can contact me at [edgarabasov1@gmail.com](mailto:edgarabasov1@gmail.com)
-* 🚀  I'm currently working on [Movie Recommendation System](https://github.com/Metaphysicist1/Movie-Recommendation-System) and [Live Data Retriever Visualizer](https://github.com/Metaphysicist1/Live-Data-Retriever-Visualizer) 
-* 🧠  I'm learning and masteting CI/CD, Data Engineering, Big Data Tools, And preparing for Exam: [AWS-MLS-C01](https://github.com/Metaphysicist1/AWS-MLS-C01)
-* 🤝  I'm open to collaborating I'm always interested in collaborating on exciting projects and contributing to open-source initiatives. If you have an interesting idea or need assistance with a project, feel free to contact me!
+* 🚀  I'm currently working on [Movie Recommendation System](https://github.com/Metaphysicist1/Movie-Recommendation-System) and [Live Data Retriever Visualizer](https://github.com/Metaphysicist1/Live-Data-Retriever-Visualizer)
+* 🧠  I'm advancing my skills in Machine Learning Engineering and Data Engineering, And preparing for Exam: [AWS-MLS-C01](https://github.com/Metaphysicist1/AWS-MLS-C01)
+* 🌀  My next plan is to master code testing and CI/CD. I am looking forward to practising big data tools in real-world projects.
+* 🤝  I'm open to collaborating I'm always interested in collaborating on exciting projects and contributing to open-source initiatives. If you have an interesting idea or need assistance with a project, please contact me!
 
 <a href="https://www.github.com/Metaphysicist1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Metaphysicist1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
