@@ -4,7 +4,7 @@
 Data Scientist specializing in Machine Learning & NLP
 -----------------------------------------------------
 
-Experienced Data Scientist with expertise in ML, DL, LLM and AWS. Author of various real-world project implementations. 
+Experienced Data Scientist with expertise in ML, Data Science, LLM and AWS. Author of various real-world project implementations. 
 Focused on driving business tasks through data-driven solutions and collaborative teamwork.
 
 * 🌍  I'm based in Kiel, Germany
