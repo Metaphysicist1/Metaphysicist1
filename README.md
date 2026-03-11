@@ -9,7 +9,7 @@ German B2 (speaking) | English C1
 
 🌍 Based in **Greifswald, Germany**  
 🖥️ [Portfolio](https://www.datascienceportfol.io/metaphysicist)  
-✉️ edgar.abasov@student.fh-kiel.de  
+✉️ edgarabasov1@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/edgar-abasov) | [Resume](https://github.com/Metaphysicist1/Metaphysicist1/blob/main/Edgar_Abasov_Resume.pdf)
 
 ---
