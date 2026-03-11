@@ -1,103 +1,91 @@
-![](https://i.gifer.com/APU5.gif) Hi, I am Edgar Abasov
-====================================================================================================================================
+# Hi, I'm Edgar Abasov 👋
 
-Data Scientist specializing in Machine Learning & NLP
------------------------------------------------------
+**Data Science Master's Student @ FH Kiel | Ex-AI Engineer | AWS Certified ML Specialist**  
+**Seeking Werkstudent (20 h/week), Internship or HiWi roles in AI Engineering, Data Engineering & ML** – hybrid/remote, Greifswald / Berlin area
 
-Experienced Data Scientist with expertise in ML, Data Science, LLM and AWS. Author of various real-world project implementations. 
-Focused on driving business tasks through data-driven solutions and collaborative teamwork.
+Former AI Engineer at Bank of Georgia with 2+ years building production chatbots and ML systems.  
+Specialized in multi-agent architectures, RAG, deployed web apps and real-time data pipelines.  
+German B2 (speaking) | English C1
 
-* 🌍  I'm based in Kiel, Germany
-* 🖥️  See my portfolio at [Portfolio](http://www.datascienceportfol.io/metaphysicist)
-* ✉️  You can contact me at [edgarabasov1@gmail.com](mailto:edgarabasov1@gmail.com)
-* 🚀  I'm currently working on [Movie Recommendation System](https://github.com/Metaphysicist1/Movie-Recommendation-System), [Live Data Retriever Visualizer](https://github.com/Metaphysicist1/Live-Data-Retriever-Visualizer) and [Advanced RAG Project](https://github.com/Metaphysicist1/RAG)
-* 🧠  I'm advancing my skills in Machine Learning Engineering and Data Engineering, And preparing for Exam: [AWS-MLS-C01](https://github.com/Metaphysicist1/AWS-MLS-C01)
-* 🌀  My next plan is to master code testing and CI/CD. I am looking forward to practising big data tools and data orchestration in real-world projects.
-* 🤝  I'm open to collaborating I'm always interested in collaborating on exciting projects and contributing to open-source initiatives. If you have an interesting idea or need assistance with a project, please contact me!
+🌍 Based in **Greifswald, Germany**  
+🖥️ [Portfolio](https://www.datascienceportfol.io/metaphysicist)  
+✉️ edgar.abasov@student.fh-kiel.de  
+🔗 [LinkedIn](https://www.linkedin.com/in/edgar-abasov) | [Resume](https://github.com/Metaphysicist1/Metaphysicist1/blob/main/Edgar_Abasov_Resume.pdf)
 
-<a href="https://www.github.com/Metaphysicist1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Metaphysicist1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-### Skills
+### 🚀 Currently Building
+**unimate** – AI-Powered Multi-Agent Companion for German University Admissions & Language Exam Preparation (TestDaF / Goethe)  
+Using LangGraph agents, RAG, LLMs and real German official materials. Live demo coming soon.
 
-<div style="background-color: #FFFFFF; padding: 20px; border-radius: 10px;">
-<p align="left" ">
+---
 
+### 🛠️ Skills
 
-   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="72" height="72" alt="Python" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/28c0067be976a8fd12f4750d85eb9591abcb7b5d/doc/logos/scikit-learn-logo-without-subtitle.svg" width="72" height="72" alt="Scikit-learn" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="72" height="72" alt="Amazon Web Services" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="72" height="72" alt="PyTorch" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="72" height="72" alt="TensorFlow" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="72" height="72" alt="Linux" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="72" height="72" alt="Docker" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="72" height="72" alt="MongoDB" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="72" height="72" alt="PostgreSQL" />
-  </a>
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="72" height="72" alt="Flask" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="72" height="72" alt="Fast API" />
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="72" height="72" alt="Power BI" />
-  </a>
-   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="72" height="72" alt="Excel" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="72" height="72" alt="Git" />
-  </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="72" height="72" alt="Apache Spark" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="72" height="72" alt="Pandas" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="72" height="72" alt="NumPy" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/LangGraph-FF4F00?logo=langchain&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/RAG-00C4B4?logo=langchain&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" height="30" />
+</div>
+
+---
+
+### 🏆 Certifications
+- **AWS Certified Machine Learning – Specialty** (Feb 2025)
+- **Mathematics for Machine Learning and Data Science** (DeepLearning.AI)
+- **Azure Data Scientist Associate**
+
+---
+
+### 🔥 Featured Projects
+
+<div align="center">
+
+**CoverBot** – RAG-based LLM Chatbot for document querying  
+`Python • LangChain • Streamlit • Deployed`  
+[→ View Repo](https://github.com/Metaphysicist1/CoverBot)
+
+**Diamond Price Prediction** – Production Flask Web App (90% accuracy)  
+`XGBoost • Docker • FastAPI • Live API`  
+[→ View Repo](https://github.com/Metaphysicist1/Diamond-Price-Prediction)
+
+**Credit Score Classifier** – Loan Default Prediction Web App (92% accuracy)  
+`XGBoost • Streamlit • Deployed`  
+[→ View Repo](https://github.com/Metaphysicist1/Credit_Score_Classifier)
+
+**PneuNet** – Medical Image Classification API  
+`PyTorch • FastAPI • Docker • Production-ready`  
+[→ View Repo](https://github.com/Metaphysicist1/PneuNet)
+
+**unimate** – AI Agent for German University Admissions & Exam Prep (in progress)  
+`LangGraph • RAG • Multi-Agent • German-focused`  
+[→ View Repo](https://github.com/Metaphysicist1/unimate)
+
+**Live Data Retriever Visualizer** – Real-time Kafka + Docker pipeline  
+`Kafka • Docker Compose • PostgreSQL • Visualization`  
+[→ View Repo](https://github.com/Metaphysicist1/Live-Data-Retriever-Visualizer)
 
 </div>
 
-### Socials
+---
 
-<p align="left"> 
-  <a href="https://www.github.com/Metaphysicist1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="72" height="72"  /> </picture> </a>
-  <a href="https://www.linkedin.com/in/edgar-abasov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="72" height="72"  /> </picture> </a> 
-  <a href="http://www.medium.com/@edgarabasov1" width="72" height="72" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="72" height="72" /> </picture> </a></p>
+### 📊 GitHub Stats
 
-### Badges
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Metaphysicist1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Metaphysicist1&theme=tokyonight&hide_border=true)
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Metaphysicist1"><img src="https://github-readme-stats.vercel.app/api?username=Metaphysicist1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Metaphysicist1's GitHub stats" /></a>
-<a href="http://www.github.com/Metaphysicist1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Metaphysicist1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/Metaphysicist1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Metaphysicist1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/edgar-abasov)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://www.datascienceportfol.io/metaphysicist)
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Metaphysicist1/Customer_Churn_Classification" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Metaphysicist1&repo=Customer_Churn_Classification&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Metaphysicist1/CoverBot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Metaphysicist1&repo=CoverBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Metaphysicist1/ml-zoomcamp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Metaphysicist1&repo=ml-zoomcamp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Metaphysicist1/Fine-tuning-NER-for-En" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Metaphysicist1&repo=Fine-tuning-NER-for-En&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+**Open to collaborations and opportunities** – feel free to reach out!
