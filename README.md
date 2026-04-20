@@ -1,6 +1,6 @@
 # Hi, I'm Edgar Abasov 👋
 
-**Data Science Master's Student @ FUni Greifswald | AI Engineer | AWS Certified ML Specialist**  
+**Data Science Master's Student @ Uni Greifswald | AI Engineer | AWS Certified ML Specialist**  
 **Seeking Werkstudent (20 h/week), Internship or HiWi roles in AI Engineering, Data Engineering & ML** – hybrid/remote, Greifswald / Berlin area
 
 Former AI Engineer at Bank of Georgia with 2+ years building production chatbots and ML systems.  
