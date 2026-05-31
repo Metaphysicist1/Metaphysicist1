@@ -8,7 +8,7 @@ Specialized in multi-agent architectures, RAG, deployed web apps and real-time d
 German B2 (speaking) | English C1
 
 🌍 Based in **Greifswald, Germany**  
-🖥️ [Portfolio](https://www.datascienceportfol.io/metaphysicist)  
+🖥️ [Portfolio](https://ultimate-ui-clone.vercel.app/)  
 ✉️ edgarabasov1@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/edgar-abasov) | [Resume](https://github.com/Metaphysicist1/Metaphysicist1/blob/main/Edgar_Abasov_Resume.pdf)
 
@@ -86,6 +86,6 @@ Using LangGraph agents, RAG, LLMs and real German official materials. Live demo 
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/edgar-abasov)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://www.datascienceportfol.io/metaphysicist)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://ultimate-ui-clone.vercel.app/)
 
 **Open to collaborations and opportunities** – feel free to reach out!
