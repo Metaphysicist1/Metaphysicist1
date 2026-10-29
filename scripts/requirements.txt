@@ -1,2 +1,1 @@
-matplotlib==3.10.0
 Pillow==11.1.0
