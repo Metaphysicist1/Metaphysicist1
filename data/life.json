@@ -1,0 +1,217 @@
+{
+  "updated": "2026-10-02",
+  "name": "Edgar Abasov",
+  "about": "Engineer, entrepreneur, future thinker.",
+  "motto": "Dreamer and doer.",
+  "place": "Berlin. Originally from Georgia.",
+  "photo": "img/edgar.jpg",
+  "status": {
+    "label": "paperclaw live",
+    "url": "https://metaphysicist1.github.io/papercrawl/"
+  },
+  "links": [
+    {
+      "label": "X",
+      "url": "https://x.com/AbasovEdgar"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Metaphysicist1"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/edgar-abasov/"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:edgarabasov1@gmail.com"
+    },
+    {
+      "label": "Strava",
+      "url": ""
+    },
+    {
+      "label": "Instagram",
+      "url": ""
+    },
+    {
+      "label": "Music",
+      "url": ""
+    }
+  ],
+  "now": [
+    "Running paperclaw — an agent that keeps checking whether the solar parks promised around Berlin actually get built.",
+    "Next: German C1 in Potsdam.",
+    ""
+  ],
+  "entries": [
+    {
+      "id": "german-c1",
+      "kind": "dream",
+      "date": "2026",
+      "title": "German C1",
+      "text": "Potsdam, starting soon."
+    },
+    {
+      "id": "world-class-startup",
+      "kind": "dream",
+      "title": "Build a world-class startup",
+      "text": "Every project in this log is a shot at it. The goal is to grow one of them into a large company."
+    },
+    {
+      "id": "intl-hackathon",
+      "kind": "dream",
+      "title": "Win an international hackathon"
+    },
+    {
+      "id": "paperclaw",
+      "kind": "shipped",
+      "date": "2026-09",
+      "title": "paperclaw",
+      "text": "An always-on agent that checks 571 registered solar parks in Berlin/Brandenburg against the official registry and Sentinel-2 satellite images, and flags megawatts that exist only on paper. Built for the NVIDIA Berlin Claw Agent Challenge.",
+      "url": "https://metaphysicist1.github.io/papercrawl/",
+      "image": "img/paperclaw.jpg"
+    },
+    {
+      "id": "wortweg",
+      "kind": "shipped",
+      "date": "2026-08",
+      "title": "Wortweg",
+      "text": "A daily German word puzzle: trace a word on the grid, get its der/die/das, plural and a real example. A1–C1, free, no signup, no ads.",
+      "url": "https://wortweg.online",
+      "image": "img/wortweg.jpg"
+    },
+    {
+      "id": "flat-bot",
+      "kind": "shipped",
+      "date": "2026-08",
+      "title": "Berlin Flat Search",
+      "text": "My Telegram bot for the Berlin/Potsdam flat hunt. It watches Kleinanzeigen, posts each new listing with rent, size and rooms, flags the cheap ones, and lets me mark them saved, applied or removed from the chat."
+    },
+    {
+      "id": "clipvault",
+      "kind": "shipped",
+      "date": "2026-09",
+      "title": "ClipVault",
+      "text": "Clipboard history for GNOME. GTK4, no cloud, no telemetry.",
+      "url": "https://github.com/Metaphysicist1/ClipVault"
+    },
+    {
+      "id": "german-b2",
+      "kind": "shipped",
+      "date": "2026",
+      "title": "German B2",
+      "text": "Course in Greifswald."
+    },
+    {
+      "id": "concierge",
+      "kind": "shipped",
+      "date": "2026-04",
+      "title": "White-Label AI Concierge",
+      "text": "FastAPI + LangGraph assistant you can point at any website or pile of PDFs.",
+      "url": "https://github.com/Metaphysicist1/White-Label-AI-Concierge"
+    },
+    {
+      "id": "supply-agent",
+      "kind": "shipped",
+      "date": "2026-04",
+      "title": "Supply-AI-Agent",
+      "text": "Supply-chain agent on Gemini and LangGraph, deployed on Google Cloud.",
+      "url": "https://github.com/Metaphysicist1/Supply-AI-Agent"
+    },
+    {
+      "id": "neuro-timer",
+      "kind": "shipped",
+      "date": "2026-03",
+      "title": "Neuro Timer",
+      "text": "Focus timer with work protocols. Desktop and web.",
+      "url": "https://neuro-timer.netlify.app/"
+    },
+    {
+      "id": "kiel",
+      "kind": "shipped",
+      "date": "2026-02",
+      "title": "Erasmus+ year at HAW Kiel",
+      "text": "Master's Data Science courses: machine learning, cloud computing, data management."
+    },
+    {
+      "id": "clustar",
+      "kind": "shipped",
+      "date": "2025-04",
+      "title": "Clustar",
+      "text": "Clustering star observations. Published the dataset on Kaggle.",
+      "url": "https://www.kaggle.com/datasets/edgarabasov/star-observations-dataset"
+    },
+    {
+      "id": "pneunet",
+      "kind": "shipped",
+      "date": "2025-04",
+      "title": "PneuNet",
+      "text": "Pneumonia detection from chest X-rays. PyTorch CNN behind FastAPI, on Cloud Run.",
+      "url": "https://github.com/Metaphysicist1/PneuNet"
+    },
+    {
+      "id": "math-ml",
+      "kind": "shipped",
+      "date": "2025-04",
+      "title": "Mathematics for ML and Data Science",
+      "text": "Specialization: linear algebra, calculus, statistics."
+    },
+    {
+      "id": "aws-ml",
+      "kind": "shipped",
+      "date": "2025-02",
+      "title": "AWS Certified Machine Learning – Specialty"
+    },
+    {
+      "id": "coverbot",
+      "kind": "shipped",
+      "date": "2024-08",
+      "title": "CoverBot",
+      "text": "Ask questions to your documents. RAG on Gemini and Streamlit.",
+      "url": "https://coverbot-edgar-abasov.streamlit.app/"
+    },
+    {
+      "id": "stamo",
+      "kind": "shipped",
+      "date": "2024-06",
+      "title": "stamo.AI",
+      "text": "Co-founded it; I'm COO. Started as text-to-video and won the MediaLab 5,000 Lari prize in 2024. Today it generates branded AR effects for TikTok, Instagram and Snapchat.",
+      "url": "https://stamoai.com"
+    },
+    {
+      "id": "bsc",
+      "kind": "shipped",
+      "date": "2024-02",
+      "title": "B.Sc. Computer Science",
+      "text": "Shota Rustaveli State University, Batumi."
+    },
+    {
+      "id": "bog",
+      "kind": "shipped",
+      "date": "2023-10",
+      "title": "AI Engineer at Bank of Georgia",
+      "text": "Until 2024-09. Raised chatbot accuracy by 15%; shipped Georgian/English features."
+    },
+    {
+      "id": "teaching",
+      "kind": "shipped",
+      "date": "2021",
+      "title": "Taught Python to 80+ kids",
+      "text": "Ages 12–14, online, 2021–2024. We built games in Pygame."
+    },
+    {
+      "id": "bsu",
+      "kind": "shipped",
+      "date": "2021-03",
+      "title": "Speech-to-text research at BSU",
+      "text": "Until 2022-03. Spectrograms, FFT, and a web app at 0.77 accuracy."
+    },
+    {
+      "id": "azure",
+      "kind": "shipped",
+      "date": "2021-03",
+      "title": "Azure Data Scientist Associate"
+    }
+  ]
+}
