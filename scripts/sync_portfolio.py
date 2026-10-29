@@ -64,6 +64,8 @@ def graphics(data, entries):
     fig.subplots_adjust(left=.06, right=.98, top=.77, bottom=.16)
     fig.savefig(assets / "shipped-projects.svg", metadata={"Date": None, "Creator": "Matplotlib"})
     plt.close(fig)
+    chart = assets / "shipped-projects.svg"
+    chart.write_text("\n".join(line.rstrip() for line in chart.read_text().splitlines()) + "\n")
 
 
 def render(data):
