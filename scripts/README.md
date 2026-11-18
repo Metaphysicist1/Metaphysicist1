@@ -22,10 +22,8 @@ python3 scripts/sync_portfolio.py --offline
 Featured projects, experience copy, and layout are curated in the script; review
 those when the portfolio changes. Project screenshots are repository assets.
 
-The profile uses Readme Typing SVG for its animated subtitle, Skill Icons and
-Shields.io for technology and contact badges, GitHub Stats Extended for profile
-statistics, and DenverCoder1's Streak Stats for contributions. These are external
-image services, fetched through GitHub's image proxy, and can have outages or
-cached data. No credentials or private contribution access are provided to them.
-The text introduction, project links, and image alt text remain readable if a
-service is unavailable. There are no visitor counters or tracking pixels.
+The profile is deliberately text-first and uses only a small local portrait.
+It avoids animated headers, generic contribution widgets, and templated stats
+cards so that the voice, project stories, and evidence remain the primary
+experience. Project screenshots and the portrait are repository assets; no
+credentials or private contribution access are used.
