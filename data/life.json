@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-11-18",
   "name": "Edgar Abasov",
-  "about": "Engineer, entrepreneur, future thinker.",
-  "motto": "Dreamer and doer.",
+  "about": "AI engineer building useful agents, developer tools, and small products.",
+  "motto": "Ship useful things.",
   "place": "Berlin. Originally from Georgia.",
   "photo": "img/edgar.jpg",
   "status": {
@@ -10,6 +10,7 @@
     "url": "https://metaphysicist1.github.io/papercrawl/"
   },
   "links": [
+    { "label": "Projects", "url": "/projects/" },
     {
       "label": "X",
       "url": "https://x.com/AbasovEdgar"
@@ -41,6 +42,7 @@
   ],
   "now": [
     "Running paperclaw — an agent that keeps checking whether the solar parks promised around Berlin actually get built.",
+    "Shipping AI Radar and Events Berlin — Telegram agents that turn feeds into useful briefings.",
     "Next: German C1 in Potsdam.",
     ""
   ],
