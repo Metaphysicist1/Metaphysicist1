@@ -55,6 +55,12 @@ def render(data):
 - 🎓 **B.Sc. Computer Science** · Erasmus+ Data Science courses at HAW Kiel.
 - ☁️ **AWS Certified Machine Learning – Specialty** · Azure Data Scientist Associate.
 
+### What I build
+
+- **Agentic systems** that collect, reason over, and deliver useful information.
+- **Applied ML products** that turn models into reliable user-facing tools.
+- **Small, opinionated software** with a clear job, a live demo, and minimal friction.
+
 ### What I'm working on
 
 {now}
