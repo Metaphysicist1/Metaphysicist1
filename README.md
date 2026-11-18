@@ -14,6 +14,15 @@
   <a href="mailto:edgarabasov1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
+## At a glance
+
+```text
+Berlin, Germany       Co-founder / COO — stamo.AI
+AI Engineer           AWS ML Specialty + Azure Data Scientist
+Production focus      Agents · RAG · Computer vision · Developer tools
+Current challenge     Turning reliable prototypes into products people use
+```
+
 ## Production systems
 
 | | |
@@ -31,6 +40,41 @@
 | **Cloud + ML** | AWS ML Specialty · Azure Data Scientist Associate |
 | **Leadership** | Co-founder & COO at [stamo.AI](https://stamoai.com) · 80+ students taught |
 | **Engineering base** | Python · LangGraph · FastAPI · Gemini · Docker · Google Cloud |
+
+## Selected shipped products
+
+| Product | Result |
+|:--|:--|
+| [Wortweg](https://wortweg.online) | Free daily German word puzzle for A1–C1, built without signup or ads |
+| Berlin Flat Search | Telegram workflow for listing discovery, filtering, saving, and applications |
+| [PneuNet](https://github.com/Metaphysicist1/PneuNet) | PyTorch chest-X-ray classifier exposed as a Cloud Run API |
+| [Neuro Timer](https://neuro-timer.netlify.app/) | Focus timer and productivity protocols for desktop and web |
+| [ClipVault](https://github.com/Metaphysicist1/ClipVault) | Private GNOME clipboard history built with GTK4 |
+
+## Current operating areas
+
+```mermaid
+flowchart LR
+    A[Source / signal] --> B[Agent / model]
+    B --> C[Tools and evidence]
+    C --> D[Evaluation]
+    D --> E[Delivery]
+    E --> F[Telegram · Web · Cloud]
+```
+
+**Now:** shipping agentic monitoring, parallel developer workflows, and reliable notification systems.
+**Interested in:** production evals, observability, encrypted delivery, local-first software, and applied RAG.
+
+## Experience & credentials
+
+| Role | Impact |
+|:--|:--|
+| **AI Engineer · Bank of Georgia** | Raised chatbot accuracy by 15% and shipped Georgian/English features |
+| **Co-founder & COO · stamo.AI** | Building branded AR effects for TikTok, Instagram, and Snapchat |
+| **Python educator** | Taught programming to 80+ students aged 12–14 |
+| **Research** | Speech-to-text, spectrogram and FFT work |
+| **Education** | B.Sc. Computer Science · Erasmus+ at HAW Kiel |
+| **Certifications** | AWS Certified ML – Specialty · Azure Data Scientist Associate |
 
 ## Built with
 
