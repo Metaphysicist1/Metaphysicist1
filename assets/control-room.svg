@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Edgar Abasov — Engineering Control Room</title>
+  <desc id="desc">Production AI systems engineer profile banner</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1f2937" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="beam" x1="0" x2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="230" rx="12" fill="#0d1117"/>
+  <rect width="1200" height="230" rx="12" fill="url(#grid)" opacity=".82"/>
+  <rect x="36" y="32" width="1128" height="166" rx="8" fill="#111827" fill-opacity=".72" stroke="#30363d"/>
+  <rect x="36" y="32" width="1128" height="4" rx="2" fill="url(#beam)"/>
+  <circle cx="66" cy="62" r="5" fill="#3fb950"/>
+  <text x="80" y="68" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">SYSTEM / EDGAR_ABASOV</text>
+  <text x="66" y="126" fill="#f0f6fc" font-family="Inter,system-ui,-apple-system,sans-serif" font-size="44" font-weight="760">I BUILD PRODUCTION AI AGENTS</text>
+  <text x="66" y="166" fill="#58a6ff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="20">AND USEFUL SOFTWARE THAT SHIPS</text>
+  <g transform="translate(920,76)">
+    <rect width="216" height="88" rx="8" fill="#0d1117" stroke="#30363d"/>
+    <text x="18" y="25" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12">LOCATION</text>
+    <text x="18" y="50" fill="#f0f6fc" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">BERLIN / REMOTE</text>
+    <circle cx="20" cy="70" r="4" fill="#3fb950"/>
+    <text x="32" y="75" fill="#7ee787" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12">AVAILABLE FOR BUILD</text>
+  </g>
+</svg>
